@@ -1,4 +1,4 @@
-public class Movia {
+public class Movie {
 
     private int movieId;
     private String movieName;
